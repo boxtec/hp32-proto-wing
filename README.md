@@ -1,2 +1,4 @@
-# hp32-proto-wing
-Prototyping Wing for HelvePic32
+HelvePic32 Proto Wing Kit
+
+See http://helvepic32.net or http://helvepic32.org/ for more information.
+
